@@ -1,9 +1,13 @@
 // ==UserScript==
-// @name         Bilibili 评论区航行卡片点击屏蔽
+// @name         Bilibili 评论区user-sailing-card点击屏蔽
 // @namespace    https://bilibili.com/
 // @version      1.0.0
 // @description  阻止 bilibili 评论区 bili-comment-user-sailing-card 组件被点击时跳转
-// @author       -
+// @author       YegeNocturne
+// @license      GPL-3.0-or-later
+// @homepageURL  https://github.com/YegeNocturne/BilibiliSailingCardBlocker
+// @supportURL   https://github.com/YegeNocturne/BilibiliSailingCardBlocker/issues
+// @icon         https://www.bilibili.com/favicon.ico
 // @match        https://www.bilibili.com/*
 // @match        https://m.bilibili.com/*
 // @run-at       document-start
