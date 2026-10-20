@@ -1,6 +1,7 @@
-# Bilibili 评论区航行卡片点击屏蔽
+# 屏蔽Bilibili评论区收藏集区域点击跳转
 
-一个 Tampermonkey（篡改猴）用户脚本：阻止 B 站评论区的 `bili-comment-user-sailing-card`（用户名片卡片）组件被点击时跳转到目标网页。
+一个 Tampermonkey（篡改猴）用户脚本：阻止 B 站评论区的 `bili-comment-user-sailing-card`组件（即收藏集区域）被点击时跳转到目标网页。
+安装本脚本后，如果您想要访问原链接，可以右键该区域，并选择“在新标签页中打开链接”或类似选项。
 
 ## 原理
 
