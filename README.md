@@ -21,6 +21,7 @@
 
 - `https://www.bilibili.com/*`
 - `https://m.bilibili.com/*`
+- `https://t.bilibili.com/*`
 
 ## 文件说明
 
